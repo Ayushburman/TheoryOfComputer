@@ -8,4 +8,3 @@ aws
 qwer
 qwer
 qwer
-cgv
