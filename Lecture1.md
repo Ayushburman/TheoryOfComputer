@@ -4,4 +4,3 @@ adfs
 qwer
 qwer
 qaz
-aws
