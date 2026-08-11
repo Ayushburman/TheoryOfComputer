@@ -6,4 +6,3 @@ qwer
 qaz
 aws
 qwer
-qwer
