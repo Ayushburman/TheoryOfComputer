@@ -6,7 +6,7 @@ tyui
 
 w
 f
-r
+
 
 y
 
