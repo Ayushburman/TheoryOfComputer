@@ -4,9 +4,6 @@ asdf
 qwe
 ty
 
-f
-
-
 y
 
 w
